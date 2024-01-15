@@ -15,7 +15,7 @@ Welcome to the Chatroom, a powerful Command Line Interface Python Chat Applicati
 ## Clone the Repository
 
     
-     git clone https://github.com/leon-kxng/cli-app-project
+     git clone git@github.com:leon-kxng/cli-app-project.git
      cd cli-app-project
 
 ## Run the Server
